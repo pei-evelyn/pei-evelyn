@@ -1,3 +1,4 @@
+![Banner Image](https://github.com/pei-evelyn/pei-evelyn/blob/master/Images/banner.png)
 ## Hello World! 👋🌎
 
 [![Evelyn's github stats](https://github-readme-stats.vercel.app/api?username=pei-evelyn&&hide=stars,contribs,issues&show_icons=true&bg_color=f4f7f7&title_color=65c0ba&icon_color=ffbd39&text_color=216583)](https://github.com/pei-evelyn/github-readme-stats)
