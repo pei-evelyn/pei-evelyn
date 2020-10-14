@@ -5,7 +5,7 @@
 
 - 💻 Currently studying - React Hooks, Material UI
 - 📚 Stack - React, Node.js, JavaScript, CSS3, HTML5, Express
-- 🛠 Tools -  Bootstrap, NPM, PostgreSQL, Babel, Webpack, Git, GitHub, Slack
+- 🛠 Tools -  Bootstrap, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack
 - ☕ Open to anything and everything!
 
 ## 💬 About Me
