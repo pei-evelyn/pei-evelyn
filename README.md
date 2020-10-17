@@ -19,6 +19,7 @@ I'm Evelyn Pei, a full stack web developer. It's my goal to utilize my skills an
 
 
 ## 📫 Let's connect!
+- [Portfolio](https://evelynpei.com/)
 - [LinkedIn](https://www.linkedin.com/in/evelyn-pei/)
 
 ## 📄 My Articles
