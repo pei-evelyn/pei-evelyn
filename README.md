@@ -10,8 +10,6 @@
 
 ## 💬 About Me
 
-Hello world 👋🌎
-
 I'm Evelyn Pei, a full stack web developer. It's my goal to utilize my skills and structurally showcase my creativity through both functional and visually appealing web development and design. I'm always looking to improve and continue learning!
 
 - ✨ Fun fact - I lived in 📍 Taipei, Taiwan for 2 years, and I have three cats 🐱.
