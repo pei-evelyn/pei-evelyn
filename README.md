@@ -3,7 +3,7 @@
 
 [![Evelyn's github stats](https://github-readme-stats.vercel.app/api?username=pei-evelyn&&hide=stars,contribs,issues&show_icons=true&bg_color=f4f7f7&title_color=65c0ba&icon_color=ffbd39&text_color=216583)](https://github.com/pei-evelyn/github-readme-stats)
 
-- 💻 Currently studying - Next.js
+- 💻 Currently studying - Sass
 - 📚 Stack - React, Node.js, JavaScript, CSS3, HTML5, Express
 - 🛠 Tools -  Bootstrap, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack
 - ☕ Open to anything and everything!
@@ -12,7 +12,10 @@
 
 I'm Evelyn Pei, a full stack web developer. It's my goal to utilize my skills and structurally showcase my creativity through both functional and visually appealing web development and design. I'm always looking to improve and continue learning!
 
-- ✨ Fun fact - I lived in 📍 Taipei, Taiwan for 2 years, and I have three cats 🐱.
+✨ Fun Facts! 
+
+- I lived in 📍 Taipei, Taiwan for 2 years. 
+- I have three cats 🐱.
 
 
 
