@@ -10,13 +10,18 @@
 
 ## 💬 About Me
 
-I'm Evelyn Pei, a full stack web developer. It's my goal to utilize my skills and structurally showcase my creativity through both functional and visually appealing web development and design. I'm always looking to improve and continue learning!
+I'm Evelyn, a full stack web developer. I know JavaScript, React, Node.js, CSS, and more - but I'm open to learning anything!
+
+Data Processor ➺ Customer Service Associate ➺ Visual Merchandiser ➺ English Teacher ➺ Web Developer
+
+👆 Ask me how I got here.
+
+Learning is a life long journey - it never ends. I work each day to improve my skills and become an even better web developer than the day before. Self improvement will always be present in my life, and I wouldn't have it any other way.
 
 ✨ Fun Facts! 
 
 - I lived in 📍 Taipei, Taiwan for 2 years. 
 - I have three cats 🐱.
-
 
 
 ## 📫 Let's connect!
