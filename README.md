@@ -13,7 +13,7 @@
 
 ## 💬 About Me
 
-I'm Evelyn, a full stack web developer. I know JavaScript, React, Node.js, CSS, and more - but I'm open to learning anything!
+I'm Evelyn, a web developer at Bizurk Software. I know JavaScript, Angular, React, Node.js, CSS, and more - but I'm open to learning anything!
 
 Data Processor ➺ Customer Service Associate ➺ Visual Merchandiser ➺ English Teacher ➺ Web Developer
 
@@ -33,4 +33,5 @@ Learning is a life long journey - it never ends. I work each day to improve my s
 
 ## 📄 My Articles
 - [What Living in Taiwan Taught Me that I've Brought to Programming](https://www.linkedin.com/pulse/what-living-taiwan-taught-me-ive-brought-programming-evelyn-pei/)
+- [Meta Tags: Getting Them Right for LinkedIn](https://www.linkedin.com/pulse/meta-tags-getting-them-right-linkedin-evelyn-pei/)
 
