@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pei-evelyn&layout=compact&bg_color=f4f7f7&title_color=65c0ba)](https://github.com/pei-evelyn/)
 
 
-- 💻 Currently studying - TypeScript, Sass
+- 💻 Currently studying - TypeScript, Sass, Wordpress
 - 📚 Stack - Angular, React, JavaScript, CSS3, HTML5, Node.js, Express
 - 🛠 Tools -  Bootstrap, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack
 - ☕ Open to anything and everything!
