@@ -6,14 +6,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pei-evelyn&layout=compact&bg_color=f4f7f7&title_color=65c0ba)](https://github.com/pei-evelyn/)
 
 
-- 💻 Currently studying - TypeScript, Sass, Wordpress
-- 📚 Stack - Angular, React, JavaScript, CSS3, HTML5, Node.js, Express
+- 💻 Currently studying - GraphQL
+- 📚 Stack - Angular, React, JavaScript, CSS3, HTML5, Node.js, Express, Sass, TypeScript
 - 🛠 Tools -  Bootstrap, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack
 - ☕ Open to anything and everything!
 
 ## 💬 About Me
 
-I'm Evelyn, a web developer at Bizurk Software. I know JavaScript, Angular, React, Node.js, CSS, and more - but I'm open to learning anything!
+I'm Evelyn, a software engineer at Cox Automotive/Kelley Blue Book. I know JavaScript, Angular, React, Node.js, CSS, and more - but I'm open to learning anything!
 
 Data Processor ➺ Customer Service Associate ➺ Visual Merchandiser ➺ English Teacher ➺ Web Developer
 
