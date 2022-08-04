@@ -28,7 +28,6 @@ Learning is a life long journey - it never ends. I work each day to improve my s
 
 
 ## 📫 Let's connect!
-- [Portfolio](https://evelynpei.com/)
 - [LinkedIn](https://www.linkedin.com/in/evelyn-pei/)
 
 ## 📄 My Articles
